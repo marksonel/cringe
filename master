@@ -1,4 +1,4 @@
-a = 50
+a = 70
 b = 130
  
 while a != 0 and b != 0:
@@ -8,3 +8,4 @@ while a != 0 and b != 0:
         b = b % a
  
 print(a + b)
+print('hello')
